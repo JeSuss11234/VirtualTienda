@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20560152555",
+    "firebase_url": "https://apponline-3d020.firebaseio.com",
+    "project_id": "apponline-3d020",
+    "storage_bucket": "apponline-3d020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20560152555:android:5a7bf6063c7541ac3b7bae",
+        "android_client_info": {
+          "package_name": "com.example.tiendavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20560152555-kneokbq7num0mastjo8tlqkcvqnbcb8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiendavirtual",
+            "certificate_hash": "faab3af9508fc476dcd9ed4ca6988452f60dee24"
+          }
+        },
+        {
+          "client_id": "20560152555-ordu2v5u634hc98mjcr2cldf4qab8bi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALMsvJxdvGlQspLEHiHlwKhuE-LxLXlwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20560152555-ordu2v5u634hc98mjcr2cldf4qab8bi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
